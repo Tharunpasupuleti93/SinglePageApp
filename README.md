@@ -5,3 +5,4 @@ added the buttona
 Made the free changes and done with the buttons part
    made the changes
 added two more lines and worked on index page
+today worked on new features include webiste bar and bell button
